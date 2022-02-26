@@ -1,0 +1,20 @@
+{
+  "name": "react-formik-dynamic-form-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "formik": "^2.1.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "yup": "^0.29.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
